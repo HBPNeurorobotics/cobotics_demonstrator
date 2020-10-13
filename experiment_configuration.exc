@@ -17,5 +17,5 @@
   </cameraPose>
   <cloneDate>2020-09-29T11:31:30</cloneDate>
   <physicsEngine>ode</physicsEngine>
-  <rosLaunch src="kuka.launch" />
+  <!-- <rosLaunch src="kuka.launch" /> -->
 </ExD>
